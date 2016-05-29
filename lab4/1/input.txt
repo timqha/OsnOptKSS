@@ -1,0 +1,16 @@
+15
+killerapp libzigzag.a
+libzigzag.a zag.o zig.o libfoobar.a
+zig.o zig.cpp boz.h
+zag.o boz.h zag.cpp yow.h dax.h
+libfoobar.a bar.o foo.o
+bar.o boz.h yow.h dax.h bar.cpp
+foo.o dax.h zow.h foo.cpp
+zig.cpp
+boz.h
+zag.cpp
+yow.h
+dax.h
+bar.cpp
+zow.h
+foo.cpp
